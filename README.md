@@ -48,7 +48,10 @@ https://github.com/ellietms/Olympick
 
 ## Demo
 
-![Demo](https://user-images.githubusercontent.com/81711732/130333703-8eb2007e-c7cf-4f57-94a1-45630c3cef38.gif)
+https://user-images.githubusercontent.com/79653484/131667632-17f0ae89-bc88-4953-85c6-31a90199a704.mp4
+
+
+
 
 <br>
 
